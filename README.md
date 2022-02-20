@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hcarver5
-- 👀 I’m interested in learning front end desigh
+- 👀 I’m interested in learning front end design
 - 🌱 I’m currently learning loops and conditions in Javascript!
 
 <!---
